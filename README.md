@@ -1,5 +1,6 @@
 [![License](https://camo.githubusercontent.com/13d043a6dd3078cfcca41e21c6ed95a714c490f9/68747470733a2f2f6261646765732e66726170736f66742e636f6d2f6f732f6d69742f6d69742d3132357832382e706e673f763d313033)](https://opensource.org/licenses/mit-license.php)
 # How-I-cracked-the-first-tech-interview-of-my-life.
+[Linkedin](https://www.linkedin.com/in/sakshamsachdeva/)
 
 Here I am sharing my personal experience which I gathered from vaious online communites and smart fellows. It hepled me in cracking the first technical round of my life of a `Fortune 500 MNC` followed by a job offer. I am going to share the roadmap that I followed. Also all of this is relevant only for MNCs and startups other than The Big Five i.e. Amazon, Apple, Facebook, Microsoft and Google’s parent company Alphabet.
 
@@ -22,6 +23,8 @@ I statred my preparation 6 months before the beginning of placement session of m
    
    
    # Cracking the coding interview
+   <a target="_blank" href="https://www.amazon.in/Cracking-Coding-Interview-Programing-Questions/dp/0984782850/ref=sr_1_3?crid=1G4I0RRTMS50R&amp;keywords=cracking+the+coding+interview+latest+edition&amp;qid=1577625401&amp;sprefix=cracking+the+codin%2Caps%2C392&amp;sr=8-3&_encoding=UTF8&tag=sakshamsachde-21&linkCode=ur2&linkId=039a846a4693571c5c026f2ff9c0417c&camp=3638&creative=24630">Cracking the Coding Interview: 189 Programing Questions and Solutions</a><img src="//ir-in.amazon-adsystem.com/e/ir?t=sakshamsachde-21&l=ur2&o=31" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+   
      It's a gem, written by Gayle Laakmann Mcdowell. Right before starting your interview preparation, you should go through the introduction of this book, that covers,
      - The Interview Process .
      - Behind the Scenes 
@@ -116,6 +119,11 @@ Further if you want to practice more, you can also follow RS Agarwal.
    - The Data Structures & Algorithms :
        - DSA is the base of coding round. You should have good grasp on this. Concepts can be cleared from the book 
            "Data Structures and Algorithms" by Narashimha Karumanchi
+           
+           <a target="_blank" href="https://www.amazon.in/Data-Structures-Algorithms-Made-Easy/dp/819324527X?&_encoding=UTF8&tag=sakshamsachde-21&linkCode=ur2&linkId=ea34c421fabbb57e2422b95f840f5cf1&camp=3638&creative=24630">Data-Structures-Algorithms-Made-Easy in C++</a><img src="//ir-in.amazon-adsystem.com/e/ir?t=sakshamsachde-21&l=ur2&o=31" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+           
+           <a target="_blank" href="https://www.amazon.in/Data-Structures-Algorithms-Made-Easy/dp/8192107558/ref=sr_1_3?crid=1VV1F7T7IR36M&amp;keywords=narashima+karumanchi&amp;qid=1577625567&amp;sprefix=narash%2Caps%2C390&amp;sr=8-3&_encoding=UTF8&tag=sakshamsachde-21&linkCode=ur2&linkId=d5ad91883cdc18565e587c1913ca2e0b&camp=3638&creative=24630">Data-Structures-Algorithms-Made-Easy in Java</a><img src="//ir-in.amazon-adsystem.com/e/ir?t=sakshamsachde-21&l=ur2&o=31" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+           
        - Practice MCQ's on DSA from [GeeksforGeeks : DSA](https://www.geeksforgeeks.org/data-structure-gq/)   
   Now, when you know DSA It's time to practice as much as possible. Spare 1-2 hours daily for this, no matter what.
   
@@ -130,7 +138,7 @@ Further if you want to practice more, you can also follow RS Agarwal.
           
   
   # Face-to-Face Technical Round
-   - This round is really unpredictable and depends on company and moreover a particular interview panel.
+   - This round is really unpredictable and depends on company to company and moreover on a particular interview panel.
    - Majority of questions are asked from the language of your choice, DBMS, SQL Queries and the projects that you have done.
    - Computer Organistaion & Networking questions can also be asked but are rare. You cannot skip these.
    
@@ -140,15 +148,50 @@ Further if you want to practice more, you can also follow RS Agarwal.
       - 300 Java Interview Questions : [JavaTpoint : 300 questions](https://www.javatpoint.com/corejava-interview-questions)
       - MCQ's on Java : [GeeksforGeeks](https://www.geeksforgeeks.org/java-multiple-choice-questions/) 
       - Concepts of DBMS from : [StudyTonight : DBMS](https://www.studytonight.com/dbms/)
-      - Practice SQL Queries from : [GeeksforGeeks : SQL Queries](https://www.geeksforgeeks.org/sql-tutorial/) 
+      - Practice SQL Queries from : [GeeksforGeeks : SQL Queries](https://www.geeksforgeeks.org/sql-tutorial/)
+      - Read interview questions on Computer Organistaion and Networking also.
      
    - Also you should know each and everything about the projects that you are mentioning in your resume ( or atleast the module you have implemented in case of group project).
       
    # HR Round
+  Never ever take this round lightly. HR has the power to screen one out even if he/she have excellent technical skills. There are many standard questions which are asked in almost every HR Round, like :
+  
+   - Tell me about yourself?
+   - What are your strengths and weakness?
+   - Why do you want to work for this company?
+   - Are you successfull?
+   - What motivates you?
+   - Why should we hire you?
+   - Where do you see yourself in 5 years?
+   - What have you learned from mistakes on the job?
+   - How would you know you were successful on this job?
+   - What will you do if you don’t get this position?
+   - How long would you expect to work for us in case you are hired?
+   - Describe your ability to work under pressure.
+   - What has disappointed you about work?
+   - Are you willing to make sacrifices for this company?
+   - How do you propose to compensate for your lack of experience?
+   - Would you rather work for money or job satisfaction?
+   - Do you have any questions for me?
    
    
-   
-   
-   
+   Prepare in advance for questions like these. There are many youtube videos that guides about dealing with a particular question. Basically, we have to talk in terms of organisation profits. You have to show how you can be a asset for them. You have to say what they are expecting to listen from a candidate e.g. Consider a question "Where do you see yourself in 5 years?", Now, come on most of the people wants to switch for 30% hike within 1-2 year, But, wait, Then why are they putting efforts on your recuritment if you will leave them within 1-2 years ? Got the point ?  So, you don't have to tell them your plan instead you can reply with something like “I see myself more ambitious and dedicated fellow after 5 years .In five years, I see myself as a successful (your creative field), subject matter expert and learning new skills that will benefit the company and help me achieve my career goals. I am eager to experience new challenges and excited to invest five years time specializing in a career I find extremely interesting and motivating" ( Just an example).
+
    
    # Pro-Tips
+   - Study about the organistaion that where you are going to give interview, like
+   
+        - what they are ? 
+        - what they do ?
+        - How it is like to work there?
+        - rating and reviews on [GlassDoor](https://www.glassdoor.co.in/index.htm)
+        - Read past interview experiences from [GeeksforGeeks : Interview Experiences](https://www.geeksforgeeks.org/company-interview-corner/) and [GlassDoor](https://www.glassdoor.co.in/index.htm).
+        
+   - Mention only those technologies and projects that you know very well. Also, if you have basic knowledge of a particular language or techonology then mention the level of proficiency in the same.
+   - As, a fresher your resume should be only one page long.
+   
+# Hope this helps :)
+   - Follow on [Linkedin](https://www.linkedin.com/in/sakshamsachdeva/)
+   - Follow on [Github](https://github.com/sakshamsachdeva)
+   - Follow on [Quora](https://www.quora.com/profile/Saksham-Sachdeva-8)
+   - E-mail any query to : saksham9654@gmail.com
