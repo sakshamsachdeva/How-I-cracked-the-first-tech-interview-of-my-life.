@@ -17,7 +17,7 @@ I statred my preparation 6 months before the beginning of placement session of m
    
    - HR Round
    
-   Chronology me differ from company to company, some take HR round before technical.
+   Chronology may differ from company to company, some take HR round before technical.
    
    Also, some MNCs take Chief Technical Officer round (CTO) after all of the above rounds.
    
