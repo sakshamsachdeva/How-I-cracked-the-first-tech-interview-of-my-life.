@@ -123,18 +123,24 @@ Further if you want to practice more, you can also follow RS Agarwal.
            <a target="_blank" href="https://www.amazon.in/Data-Structures-Algorithms-Made-Easy/dp/819324527X?&_encoding=UTF8&tag=sakshamsachde-21&linkCode=ur2&linkId=ea34c421fabbb57e2422b95f840f5cf1&camp=3638&creative=24630">Data-Structures-Algorithms-Made-Easy in C++</a><img src="//ir-in.amazon-adsystem.com/e/ir?t=sakshamsachde-21&l=ur2&o=31" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
            
            <a target="_blank" href="https://www.amazon.in/Data-Structures-Algorithms-Made-Easy/dp/8192107558/ref=sr_1_3?crid=1VV1F7T7IR36M&amp;keywords=narashima+karumanchi&amp;qid=1577625567&amp;sprefix=narash%2Caps%2C390&amp;sr=8-3&_encoding=UTF8&tag=sakshamsachde-21&linkCode=ur2&linkId=d5ad91883cdc18565e587c1913ca2e0b&camp=3638&creative=24630">Data-Structures-Algorithms-Made-Easy in Java</a><img src="//ir-in.amazon-adsystem.com/e/ir?t=sakshamsachde-21&l=ur2&o=31" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-           
+       - You'll definitely need to know:
+
+            - Arrays, strings, linked lists, stacks, queues, trees, graphs, hash maps, hashtables, heaps, priority queues, and linked lists (single/doubly/circular) and other common classes of data structures.
+            - Breadth first search, depth first search, binary search, tree traversal (pre/in/post), sorting algorithms (merge/quick/and some O(n^2) ones) and other common classes of algorithms.
+            - Time and Space Complexities on all of the above.
+            - Recursion/iteration and dynamic programming.
+            
        - Practice MCQ's on DSA from [GeeksforGeeks : DSA](https://www.geeksforgeeks.org/data-structure-gq/)   
   Now, when you know DSA It's time to practice as much as possible. Spare 1-2 hours daily for this, no matter what.
   
   - Online Coding Platforms :
     - There are many websites for practicing coding questions like HackerRank, Codechef, LeetCode, GeeksforGeeks, HackerEarth, CodeForces etc. But, you don't need to follow all of these sites, Only one will be more than enough. Now, the question arises which site to choose ? These coding platforms are divided into two parts : 
        - Competitive Programming - HackerRank, Codechef, HackerEarth, CodeForces 
-       - Interview Specific Programming - GeeksforGeeks, LeetCode
+       - Interview Specific Programming - GeeksforGeeks, LeetCode, InterviewBit.
        
      - Competitive programming is like a sport for coding geeks. You may opt for this if you have a lot of time. But, if your placement    session is just 5-6 months ahead, the Interview specific programming  should be done, as it contains the exact or similar questions that can be asked in your coding round. 
       - You can choose any programming language of your choice for this round.
-      - Practice 40-50 questions on each data structure like array, string, linked list, stack, queue, binary tree etc.
+      - Practice 40-50 questions on each data structure like array, string, linked list, stack, queue, binary tree, hashmap, hashset etc.
           
   
   # Face-to-Face Technical Round
@@ -144,6 +150,7 @@ Further if you want to practice more, you can also follow RS Agarwal.
    
       I can provide resources for Java. You may opt any language for this round.
    
+      - You should know OOPs principles.
       - Study concepts of Java from : [JavaTpoint](https://www.javatpoint.com/java-tutorial)
       - 300 Java Interview Questions : [JavaTpoint : 300 questions](https://www.javatpoint.com/corejava-interview-questions)
       - MCQ's on Java : [GeeksforGeeks](https://www.geeksforgeeks.org/java-multiple-choice-questions/) 
@@ -176,15 +183,20 @@ Further if you want to practice more, you can also follow RS Agarwal.
    
    
    Prepare in advance for questions like these. There are many youtube videos that guides about dealing with a particular question. Basically, we have to talk in terms of organisation profits. You have to show how you can be a asset for them. You have to say what they are expecting to listen from a candidate e.g. Consider a question "Where do you see yourself in 5 years?", Now, come on most of the people wants to switch for 30% hike within 1-2 year, But, wait, Then why are they putting efforts on your recuritment if you will leave them within 1-2 years ? Got the point ?  So, you don't have to tell them your plan instead you can reply with something like “I see myself more ambitious and dedicated fellow after 5 years .In five years, I see myself as a successful (your creative field), subject matter expert and learning new skills that will benefit the company and help me achieve my career goals. I am eager to experience new challenges and excited to invest five years time specializing in a career I find extremely interesting and motivating" ( Just an example).
+   
+   - ALso prepare for puzzles and riddles.
 
    
    # Pro-Tips
    - Study about the organistaion that where you are going to give interview, like
    
-        - what they are ? 
-        - what they do ?
+        - What they do ? 
+        - What are its different products ?
+        - What is going to be my role, if selected?
+        - Do I have the necessary skill set for the role ? 
+        - Do I have my resume tailored for this interview ? 
         - How it is like to work there?
-        - rating and reviews on [GlassDoor](https://www.glassdoor.co.in/index.htm)
+        - Rating and reviews on [GlassDoor](https://www.glassdoor.co.in/index.htm)
         - Read past interview experiences from [GeeksforGeeks : Interview Experiences](https://www.geeksforgeeks.org/company-interview-corner/) and [GlassDoor](https://www.glassdoor.co.in/index.htm).
         
    - Mention only those technologies and projects that you know very well. Also, if you have basic knowledge of a particular language or techonology then mention the level of proficiency in the same.
