@@ -25,6 +25,8 @@ I statred my preparation 6 months before the beginning of placement session of m
    # Cracking the coding interview
    <a target="_blank" href="https://www.amazon.in/Cracking-Coding-Interview-Programing-Questions/dp/0984782850/ref=sr_1_3?crid=1G4I0RRTMS50R&amp;keywords=cracking+the+coding+interview+latest+edition&amp;qid=1577625401&amp;sprefix=cracking+the+codin%2Caps%2C392&amp;sr=8-3&_encoding=UTF8&tag=sakshamsachde-21&linkCode=ur2&linkId=039a846a4693571c5c026f2ff9c0417c&camp=3638&creative=24630">Cracking the Coding Interview: 189 Programing Questions and Solutions</a><img src="//ir-in.amazon-adsystem.com/e/ir?t=sakshamsachde-21&l=ur2&o=31" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
    
+  <p align="center"><img src="Images/CCC.png" height = "271" width="198"></p>
+  
      It's a gem, written by Gayle Laakmann Mcdowell. Right before starting your interview preparation, you should go through the introduction of this book, that covers,
      - The Interview Process .
      - Behind the Scenes 
@@ -123,6 +125,9 @@ Further if you want to practice more, you can also follow RS Agarwal.
            <a target="_blank" href="https://www.amazon.in/Data-Structures-Algorithms-Made-Easy/dp/819324527X?&_encoding=UTF8&tag=sakshamsachde-21&linkCode=ur2&linkId=ea34c421fabbb57e2422b95f840f5cf1&camp=3638&creative=24630">Data-Structures-Algorithms-Made-Easy in C++</a><img src="//ir-in.amazon-adsystem.com/e/ir?t=sakshamsachde-21&l=ur2&o=31" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
            
            <a target="_blank" href="https://www.amazon.in/Data-Structures-Algorithms-Made-Easy/dp/8192107558/ref=sr_1_3?crid=1VV1F7T7IR36M&amp;keywords=narashima+karumanchi&amp;qid=1577625567&amp;sprefix=narash%2Caps%2C390&amp;sr=8-3&_encoding=UTF8&tag=sakshamsachde-21&linkCode=ur2&linkId=d5ad91883cdc18565e587c1913ca2e0b&camp=3638&creative=24630">Data-Structures-Algorithms-Made-Easy in Java</a><img src="//ir-in.amazon-adsystem.com/e/ir?t=sakshamsachde-21&l=ur2&o=31" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+           
+            <p align="center"><img src="Images/NK.jpg" height = "271" width="198"></p>
+
        - You'll definitely need to know:
 
             - Arrays, strings, linked lists, stacks, queues, trees, graphs, hash maps, hashtables, heaps, priority queues, and linked lists (single/doubly/circular) and other common classes of data structures.
@@ -133,6 +138,18 @@ Further if you want to practice more, you can also follow RS Agarwal.
        - Practice MCQ's on DSA from [GeeksforGeeks : DSA](https://www.geeksforgeeks.org/data-structure-gq/)   
   Now, when you know DSA It's time to practice as much as possible. Spare 1-2 hours daily for this, no matter what.
   
+   <table>
+  <tr>
+     <td><img src="Images/HE.png" height = "151" width="198"></td>
+    <td><img src="Images/HR.jpg" height = "151" width="198"></td>
+    <td><img src="Images/GG.jpg" height = "151" width="198"></td>
+    <td><img src="Images/CC.png" height = "151" width="198"></td>
+    <td><img src="Images/IB.png" height = "151" width="198"></td>
+    <td><img src="Images/CF.png" height = "151" width="198"></td>
+    <td><img src="Images/L.png" height = "151" width="198"></td>
+  </tr>
+</table>
+
   - Online Coding Platforms :
     - There are many websites for practicing coding questions like HackerRank, Codechef, LeetCode, GeeksforGeeks, HackerEarth, CodeForces etc. But, you don't need to follow all of these sites, Only one will be more than enough. Now, the question arises which site to choose ? These coding platforms are divided into two parts : 
        - Competitive Programming - HackerRank, Codechef, HackerEarth, CodeForces 
@@ -142,7 +159,7 @@ Further if you want to practice more, you can also follow RS Agarwal.
       - You can choose any programming language of your choice for this round.
       - Practice 40-50 questions on each data structure like array, string, linked list, stack, queue, binary tree, hashmap, hashset etc.
           
-  
+
   # Face-to-Face Technical Round
    - This round is really unpredictable and depends on company to company and moreover on a particular interview panel.
    - Majority of questions are asked from the language of your choice, DBMS, SQL Queries and the projects that you have done.
