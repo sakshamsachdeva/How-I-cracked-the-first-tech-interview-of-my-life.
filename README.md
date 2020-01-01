@@ -2,7 +2,7 @@
 # How-I-cracked-the-first-tech-interview-of-my-life.
 [Linkedin](https://www.linkedin.com/in/sakshamsachdeva/)
 
-Here I am sharing my personal experience which I gathered from vaious online communites and smart fellows. It hepled me in cracking the first technical round of my life of a `Fortune 500 MNC` followed by a job offer. I am going to share the roadmap that I followed. Also all of this is relevant only for MNCs and startups other than The Big Five i.e. Amazon, Apple, Facebook, Microsoft and Google’s parent company Alphabet.
+Here I am sharing my personal experience which I gathered from vaious online communites and smart fellows. It helped me in cracking the first technical round of my life of a `Fortune 500 MNC` followed by a job offer. I am going to share the roadmap that I followed. Also all of this is relevant only for MNCs and startups other than The Big Five i.e. Amazon, Apple, Facebook, Microsoft and Google’s parent company Alphabet.
 
 I statred my preparation 6 months before the beginning of placement session of my college. I advise you to start as early as possible because at the end the job is what that matters.
 
@@ -40,7 +40,7 @@ I statred my preparation 6 months before the beginning of placement session of m
    Now, 
    
    # Aptitude Round
-   Many students stuck in this round. Even if you have excellent coding skills but firstly you have to go through this screnning round. Many coding geeks face problems when a scrennig round act as an obstacle and stop them from showing their skills. I am sharing a list of topics which should be covered for this round.
+   Many students  get stuck in this round. Even if you have excellent coding skills but firstly you have to go through this screening round. Many coding geeks face problems when a screening round act as an obstacle that stop them from showing their skills. I am sharing a list of topics which should be covered for this round.
    
   - Problems on Trains
   
@@ -102,12 +102,14 @@ I statred my preparation 6 months before the beginning of placement session of m
 
   - Probability
 
-Obviously we are in Btech/MCA we can easily solve these problems. But, WAIT , We just not only have to solve these questions but also within stipulated time. You have to improve your speed, and, for that, learn tricks/shortcuts to solve a particular type of problem. I am sharing a youtube channel for tricks : [SSC ADDA](https://www.youtube.com/channel/UCAyYBPzFioHUxvVZEn4rMJA
-)     but there are many others which can be followed.
+Obviously we are in Btech/MCA we can easily solve these problems. But, WAIT, this ain't enough, because we need to solve these problems within the stipulated time as well. You have to improve your speed, and, for that, learn tricks/shortcuts to solve a particular type of problem. I am sharing a youtube channel for tricks : [SSC ADDA](https://www.youtube.com/channel/UCAyYBPzFioHUxvVZEn4rMJA
+)     , but there are many others which can be followed.
 
 Now, you know shortcuts, your speed is improved , it's time to practice.
   Practice questions from : [IndiaBix](https://www.indiabix.com/aptitude/questions-and-answers/)
   
+   <p align="center"><img src="Images/apt.jpg" height = "271" width="198"></p>
+    
 Further if you want to practice more, you can also follow RS Agarwal.
   
    # Coding Round  
@@ -119,7 +121,7 @@ Further if you want to practice more, you can also follow RS Agarwal.
       - and C++ from : [GeeksforGeeks : C++ Multiple Choice Questions](https://www.geeksforgeeks.org/c-programming-multiple-choice-questions/)
 
    - The Data Structures & Algorithms :
-       - DSA is the base of coding round. You should have good grasp on this. Concepts can be cleared from the book 
+       - DSA is the root of coding round. You should have good grip over this. Concepts can be cleared from the book 
            "Data Structures and Algorithms" by Narashimha Karumanchi
            
            <a target="_blank" href="https://www.amazon.in/Data-Structures-Algorithms-Made-Easy/dp/819324527X?&_encoding=UTF8&tag=sakshamsachde-21&linkCode=ur2&linkId=ea34c421fabbb57e2422b95f840f5cf1&camp=3638&creative=24630">Data-Structures-Algorithms-Made-Easy in C++</a><img src="//ir-in.amazon-adsystem.com/e/ir?t=sakshamsachde-21&l=ur2&o=31" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -136,18 +138,19 @@ Further if you want to practice more, you can also follow RS Agarwal.
             - Recursion/iteration and dynamic programming.
             
        - Practice MCQ's on DSA from [GeeksforGeeks : DSA](https://www.geeksforgeeks.org/data-structure-gq/)   
-  Now, when you know DSA It's time to practice as much as possible. Spare 1-2 hours daily for this, no matter what.
+  Now, when you know DSA It's time to code as much as possible. Spare 1-2 hours daily for this, no matter what.
   
    <table>
   <tr>
-     <td><img src="Images/HE.png" height = "151" width="198"></td>
-    <td><img src="Images/HR.jpg" height = "151" width="198"></td>
-    <td><img src="Images/GG.jpg" height = "151" width="198"></td>
-    <td><img src="Images/CC.png" height = "151" width="198"></td>
-    <td><img src="Images/IB.png" height = "151" width="198"></td>
-    <td><img src="Images/CF.png" height = "151" width="198"></td>
-    <td><img src="Images/L.png" height = "151" width="198"></td>
+     <td><img src="Images/HE.png" height = "101" width="198"></td>
+    <td><img src="Images/HR.jpg" height = "101" width="198"></td>
+    <td><img src="Images/GG.jpg" height = "101" width="198"></td>
+    <td><img src="Images/CC.png" height = "101" width="198"></td>
+    <td><img src="Images/IB.png" height = "101" width="198"></td>
+    <td><img src="Images/CF.png" height = "101" width="198"></td>
+    <td><img src="Images/L.png" height = "101" width="198"></td>
   </tr>
+  
 </table>
 
   - Online Coding Platforms :
@@ -163,11 +166,11 @@ Further if you want to practice more, you can also follow RS Agarwal.
   # Face-to-Face Technical Round
    - This round is really unpredictable and depends on company to company and moreover on a particular interview panel.
    - Majority of questions are asked from the language of your choice, DBMS, SQL Queries and the projects that you have done.
-   - Computer Organistaion & Networking questions can also be asked but are rare. You cannot skip these.
+   - Computer Organistaion & Networking questions can also be asked but are rare. You cannot skip the same in your preparation.
    
       I can provide resources for Java. You may opt any language for this round.
    
-      - You should know OOPs principles.
+      - You should know the OOPs principles.
       - Study concepts of Java from : [JavaTpoint](https://www.javatpoint.com/java-tutorial)
       - 300 Java Interview Questions : [JavaTpoint : 300 questions](https://www.javatpoint.com/corejava-interview-questions)
       - MCQ's on Java : [GeeksforGeeks](https://www.geeksforgeeks.org/java-multiple-choice-questions/) 
@@ -183,11 +186,10 @@ Further if you want to practice more, you can also follow RS Agarwal.
    - Tell me about yourself?
    - What are your strengths and weakness?
    - Why do you want to work for this company?
-   - Are you successfull?
+   - Do you consider yourself successful?
    - What motivates you?
    - Why should we hire you?
-   - Where do you see yourself in 5 years?
-   - What have you learned from mistakes on the job?
+   - Where do you see yourself in next 5 years?
    - How would you know you were successful on this job?
    - What will you do if you don’t get this position?
    - How long would you expect to work for us in case you are hired?
@@ -201,14 +203,14 @@ Further if you want to practice more, you can also follow RS Agarwal.
    
    Prepare in advance for questions like these. There are many youtube videos that guides about dealing with a particular question. Basically, we have to talk in terms of organisation profits. You have to show how you can be a asset for them. You have to say what they are expecting to listen from a candidate e.g. Consider a question "Where do you see yourself in 5 years?", Now, come on most of the people wants to switch for 30% hike within 1-2 year, But, wait, Then why are they putting efforts on your recuritment if you will leave them within 1-2 years ? Got the point ?  So, you don't have to tell them your plan instead you can reply with something like “I see myself more ambitious and dedicated fellow after 5 years .In five years, I see myself as a successful (your creative field), subject matter expert and learning new skills that will benefit the company and help me achieve my career goals. I am eager to experience new challenges and excited to invest five years time specializing in a career I find extremely interesting and motivating" ( Just an example).
    
-   - ALso prepare for puzzles and riddles.
+   - Also prepare for puzzles and riddles.
 
    
    # Pro-Tips
-   - Study about the organistaion that where you are going to give interview, like
+   - Study about the organisation, where you are going to have your interview, like
    
         - What they do ? 
-        - What are its different products ?
+        - What are there different products ?
         - What is going to be my role, if selected?
         - Do I have the necessary skill set for the role ? 
         - Do I have my resume tailored for this interview ? 
@@ -216,7 +218,7 @@ Further if you want to practice more, you can also follow RS Agarwal.
         - Rating and reviews on [GlassDoor](https://www.glassdoor.co.in/index.htm)
         - Read past interview experiences from [GeeksforGeeks : Interview Experiences](https://www.geeksforgeeks.org/company-interview-corner/) and [GlassDoor](https://www.glassdoor.co.in/index.htm).
         
-   - Mention only those technologies and projects that you know very well. Also, if you have basic knowledge of a particular language or techonology then mention the level of proficiency in the same.
+   - Mention only those technologies and projects that you know very well. Also, if you have basic knowledge of a particular language or techonology then you can mention the same with the level of proficiency.
    - As, a fresher your resume should be only one page long.
    
 # Hope this helps :)
