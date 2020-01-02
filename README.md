@@ -2,7 +2,7 @@
 # How-I-cracked-the-first-tech-interview-of-my-life.
 [Linkedin](https://www.linkedin.com/in/sakshamsachdeva/)
 
-Here I am sharing my personal experience which I gathered from various online communities and smart fellows. It helped me in cracking the first technical round of my life of a `Fortune 500 MNC` followed by a job offer. I am going to share the roadmap that I followed. Also all of this is relevant only for MNCs and startups other than The Big Five i.e. Amazon, Apple, Facebook, Microsoft and Google’s parent company Alphabet.
+Here I am sharing my personal experience which I gathered from various online communities and smart fellows. It helped me in cracking the first technical round of my life of a `Fortune 500 MNC` followed by a job offer. I am going to share the roadmap that I followed. Also, all of this is relevant only for MNCs and startups other than The Big Five i.e. Amazon, Apple, Facebook, Microsoft and Google’s parent company Alphabet.
 
 I started my preparation 6 months before the beginning of the placement session of my college. I advise you to start as early as possible because at the end the job is what that matters.
 
@@ -122,7 +122,7 @@ Further, if you want to practice more, you can also follow RS Agarwal.
 
    - The Data Structures & Algorithms :
        - DSA is the root of the coding round. You should have good grip over this. Concepts can be cleared from the book 
-           "Data Structures and Algorithms" by Narashimha Karumanchi
+           "Data Structures and Algorithms" by Narasimha Karumanchi
            
            <a target="_blank" href="https://www.amazon.in/Data-Structures-Algorithms-Made-Easy/dp/819324527X?&_encoding=UTF8&tag=sakshamsachde-21&linkCode=ur2&linkId=ea34c421fabbb57e2422b95f840f5cf1&camp=3638&creative=24630">Data-Structures-Algorithms-Made-Easy in C++</a><img src="//ir-in.amazon-adsystem.com/e/ir?t=sakshamsachde-21&l=ur2&o=31" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
            
@@ -166,7 +166,7 @@ Further, if you want to practice more, you can also follow RS Agarwal.
   # Face-to-Face Technical Round
    - This round is really unpredictable and depends on company to company and moreover on a particular interview panel.
    - The majority of questions are asked from the language of your choice, DBMS, SQL Queries and the projects that you have done.
-   - Computer Organistaion & Networking questions can also be asked but are rare. You cannot skip the same in your preparation.
+   - Computer Organization & Networking questions can also be asked but are rare. You cannot skip the same in your preparation.
    
       I can provide resources for Java. You may opt any language for this round.
    
@@ -176,7 +176,7 @@ Further, if you want to practice more, you can also follow RS Agarwal.
       - MCQ's on Java : [GeeksforGeeks](https://www.geeksforgeeks.org/java-multiple-choice-questions/) 
       - Concepts of DBMS from : [StudyTonight : DBMS](https://www.studytonight.com/dbms/)
       - Practice SQL Queries from : [GeeksforGeeks : SQL Queries](https://www.geeksforgeeks.org/sql-tutorial/)
-      - Read interview questions on Computer Organistaion and Networking also.
+      - Read interview questions on Computer Organization and Networking also.
      
    - Also, you should know each and everything about the projects that you are mentioning in your resume ( or at least the module you have implemented in case of a group project).
       
@@ -201,15 +201,15 @@ Further, if you want to practice more, you can also follow RS Agarwal.
    - Do you have any questions for me?
    
    
-   Prepare in advance for questions like these. There are many youtube videos that guide about dealing with a particular question. Basically, we have to talk in terms of organisation profits. You have to show how you can be an asset to them. You have to say what they are expecting to listen from a candidate e.g. Consider a question "Where do you see yourself in 5 years?", Now, come on most of the people wants to switch for 30% hike within 1-2 year, But, wait, Then why are they putting efforts on your recruitment if you will leave them within 1-2 years? Got the point?  So, you don't have to tell them your plan instead you can reply with something like “I see myself more ambitious and dedicated fellow after 5 years. In five years, I see myself as a successful (your creative field), subject matter expert and learning new skills that will benefit the company and help me achieve my career goals. I am eager to experience new challenges and excited to invest five years time specializing in a career I find extremely interesting and motivating" ( Just an example).
+   Prepare in advance for questions like these. There are many youtube videos that guide about dealing with a particular question. Basically, we have to talk in terms of organization profits. You have to show how you can be an asset to them. You have to say what they are expecting to listen from a candidate e.g. Consider a question "Where do you see yourself in 5 years?", Now, come on most of the people wants to switch for 30% hike within 1-2 year, But, wait, Then why are they putting efforts on your recruitment if you will leave them within 1-2 years? Got the point?  So, you don't have to tell them your plan instead you can reply with something like “I see myself more ambitious and dedicated fellow after 5 years. In five years, I see myself as a successful (your creative field), subject matter expert and learning new skills that will benefit the company and help me achieve my career goals. I am eager to experience new challenges and excited to invest five years time specializing in a career I find extremely interesting and motivating" ( Just an example).
    
    - Also, prepare for puzzles and riddles.
 
    
    # Pro-Tips
-   - Study about the organisation, where you are going to have your interview, like
+   - Study about the organization, where you are going to have your interview, like
    
-        - What they do ? 
+        - What do they do ? 
         - What are there different products?
         - What is going to be my role, if selected?
         - Do I have the necessary skill set for the role? 
@@ -219,10 +219,10 @@ Further, if you want to practice more, you can also follow RS Agarwal.
         - Read past interview experiences from [GeeksforGeeks : Interview Experiences](https://www.geeksforgeeks.org/company-interview-corner/) and [GlassDoor](https://www.glassdoor.co.in/index.htm).
         
    - Mention only those technologies and projects that you know very well. Also, if you have basic knowledge of a particular language or technology then you can mention the same with the level of proficiency.
-   - As a fresher your resume should be only one page long.
+   - As a fresher, your resume should be only one page long.
    
 # Hope this helps :)
    - Follow on [Linkedin](https://www.linkedin.com/in/sakshamsachdeva/)
    - Follow on [Github](https://github.com/sakshamsachdeva)
    - Follow on [Quora](https://www.quora.com/profile/Saksham-Sachdeva-8)
-   - E-mail any query to: saksham9654@gmail.com
+   - E-mail any query to saksham9654@gmail.com
