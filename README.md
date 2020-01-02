@@ -2,9 +2,9 @@
 # How-I-cracked-the-first-tech-interview-of-my-life.
 [Linkedin](https://www.linkedin.com/in/sakshamsachdeva/)
 
-Here I am sharing my personal experience which I gathered from vaious online communites and smart fellows. It helped me in cracking the first technical round of my life of a `Fortune 500 MNC` followed by a job offer. I am going to share the roadmap that I followed. Also all of this is relevant only for MNCs and startups other than The Big Five i.e. Amazon, Apple, Facebook, Microsoft and Google’s parent company Alphabet.
+Here I am sharing my personal experience which I gathered from various online communities and smart fellows. It helped me in cracking the first technical round of my life of a `Fortune 500 MNC` followed by a job offer. I am going to share the roadmap that I followed. Also all of this is relevant only for MNCs and startups other than The Big Five i.e. Amazon, Apple, Facebook, Microsoft and Google’s parent company Alphabet.
 
-I statred my preparation 6 months before the beginning of placement session of my college. I advise you to start as early as possible because at the end the job is what that matters.
+I started my preparation 6 months before the beginning of the placement session of my college. I advise you to start as early as possible because at the end the job is what that matters.
 
 
 
@@ -19,16 +19,16 @@ I statred my preparation 6 months before the beginning of placement session of m
    
    Chronology may differ from company to company, some take HR round before technical.
    
-   Also, some MNCs take Chief Technical Officer round (CTO) after all of the above rounds.
+   Also, some MNCs take the Chief Technical Officer round (CTO) after all of the above rounds.
    
    
    # Cracking the coding interview
    <a target="_blank" href="https://www.amazon.in/Cracking-Coding-Interview-Programing-Questions/dp/0984782850/ref=sr_1_3?crid=1G4I0RRTMS50R&amp;keywords=cracking+the+coding+interview+latest+edition&amp;qid=1577625401&amp;sprefix=cracking+the+codin%2Caps%2C392&amp;sr=8-3&_encoding=UTF8&tag=sakshamsachde-21&linkCode=ur2&linkId=039a846a4693571c5c026f2ff9c0417c&camp=3638&creative=24630">Cracking the Coding Interview: 189 Programing Questions and Solutions</a><img src="//ir-in.amazon-adsystem.com/e/ir?t=sakshamsachde-21&l=ur2&o=31" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
    
-  <p align="center"><img src="Images/CCC.png" height = "271" width="198"></p>
+  <p align="center"><img src="Images/CCC.jpg" height = "271" width="198"></p>
   
      It's a gem, written by Gayle Laakmann Mcdowell. Right before starting your interview preparation, you should go through the introduction of this book, that covers,
-     - The Interview Process .
+     - The Interview Process 
      - Behind the Scenes 
      - Special Situations 
      - Before the Interview
@@ -40,7 +40,7 @@ I statred my preparation 6 months before the beginning of placement session of m
    Now, 
    
    # Aptitude Round
-   Many students  get stuck in this round. Even if you have excellent coding skills but firstly you have to go through this screening round. Many coding geeks face problems when a screening round act as an obstacle that stop them from showing their skills. I am sharing a list of topics which should be covered for this round.
+   Many students  get stuck in this round. Even if you have excellent coding skills but firstly you have to go through this screening round. Many coding geeks face problems when a screening round acts as an obstacle that stops them from showing their skills. I am sharing a list of topics that should be covered for this round.
    
   - Problems on Trains
   
@@ -103,25 +103,25 @@ I statred my preparation 6 months before the beginning of placement session of m
   - Probability
 
 Obviously we are in Btech/MCA we can easily solve these problems. But, WAIT, this ain't enough, because we need to solve these problems within the stipulated time as well. You have to improve your speed, and, for that, learn tricks/shortcuts to solve a particular type of problem. I am sharing a youtube channel for tricks : [SSC ADDA](https://www.youtube.com/channel/UCAyYBPzFioHUxvVZEn4rMJA
-)     , but there are many others which can be followed.
+)     , but there are many others that can be followed.
 
-Now, you know shortcuts, your speed is improved , it's time to practice.
+Now, you know shortcuts, your speed is improved, it's time to practice.
   Practice questions from : [IndiaBix](https://www.indiabix.com/aptitude/questions-and-answers/)
   
    <p align="center"><img src="Images/apt.jpg" height = "271" width="198"></p>
     
-Further if you want to practice more, you can also follow RS Agarwal.
+Further, if you want to practice more, you can also follow RS Agarwal.
   
    # Coding Round  
    
    - The magic of C & C++ :
-     - Firstly, you should know the languages C & C++. Although there are many advanced programming languages in the market , but, C and C++ are the basics. Many interviewers expect this and can ask concepts in face-to-face interview rounds or output based questions even in the aptitute round.
+     - Firstly, you should know the languages C & C++. Although there are many advanced programming languages in the market, but, C and C++ are the basics. Many interviewers expect this and can ask concepts in face-to-face interview rounds or output based questions even in the aptitude round.
 
       - Practice output based questions on C from : [GeeksforGeeks : C Multiple Choice Questions](https://www.geeksforgeeks.org/c-multiple-choice-questions/)
       - and C++ from : [GeeksforGeeks : C++ Multiple Choice Questions](https://www.geeksforgeeks.org/c-programming-multiple-choice-questions/)
 
    - The Data Structures & Algorithms :
-       - DSA is the root of coding round. You should have good grip over this. Concepts can be cleared from the book 
+       - DSA is the root of the coding round. You should have good grip over this. Concepts can be cleared from the book 
            "Data Structures and Algorithms" by Narashimha Karumanchi
            
            <a target="_blank" href="https://www.amazon.in/Data-Structures-Algorithms-Made-Easy/dp/819324527X?&_encoding=UTF8&tag=sakshamsachde-21&linkCode=ur2&linkId=ea34c421fabbb57e2422b95f840f5cf1&camp=3638&creative=24630">Data-Structures-Algorithms-Made-Easy in C++</a><img src="//ir-in.amazon-adsystem.com/e/ir?t=sakshamsachde-21&l=ur2&o=31" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -154,7 +154,7 @@ Further if you want to practice more, you can also follow RS Agarwal.
 </table>
 
   - Online Coding Platforms :
-    - There are many websites for practicing coding questions like HackerRank, Codechef, LeetCode, GeeksforGeeks, HackerEarth, CodeForces etc. But, you don't need to follow all of these sites, Only one will be more than enough. Now, the question arises which site to choose ? These coding platforms are divided into two parts : 
+    - There are many websites for practicing coding questions like HackerRank, Codechef, LeetCode, GeeksforGeeks, HackerEarth, CodeForces etc. But, you don't need to follow all of these sites, Only one will be more than enough. Now, the question arises which site to choose? These coding platforms are divided into two parts : 
        - Competitive Programming - HackerRank, Codechef, HackerEarth, CodeForces 
        - Interview Specific Programming - GeeksforGeeks, LeetCode, InterviewBit.
        
@@ -165,7 +165,7 @@ Further if you want to practice more, you can also follow RS Agarwal.
 
   # Face-to-Face Technical Round
    - This round is really unpredictable and depends on company to company and moreover on a particular interview panel.
-   - Majority of questions are asked from the language of your choice, DBMS, SQL Queries and the projects that you have done.
+   - The majority of questions are asked from the language of your choice, DBMS, SQL Queries and the projects that you have done.
    - Computer Organistaion & Networking questions can also be asked but are rare. You cannot skip the same in your preparation.
    
       I can provide resources for Java. You may opt any language for this round.
@@ -178,10 +178,10 @@ Further if you want to practice more, you can also follow RS Agarwal.
       - Practice SQL Queries from : [GeeksforGeeks : SQL Queries](https://www.geeksforgeeks.org/sql-tutorial/)
       - Read interview questions on Computer Organistaion and Networking also.
      
-   - Also you should know each and everything about the projects that you are mentioning in your resume ( or atleast the module you have implemented in case of group project).
+   - Also, you should know each and everything about the projects that you are mentioning in your resume ( or at least the module you have implemented in case of a group project).
       
    # HR Round
-  Never ever take this round lightly. HR has the power to screen one out even if he/she have excellent technical skills. There are many standard questions which are asked in almost every HR Round, like :
+  Never ever take this round lightly. HR has the power to screen one out even if he/she has excellent technical skills. There are many standard questions which are asked in almost every HR Round, like :
   
    - Tell me about yourself?
    - What are your strengths and weakness?
@@ -189,7 +189,7 @@ Further if you want to practice more, you can also follow RS Agarwal.
    - Do you consider yourself successful?
    - What motivates you?
    - Why should we hire you?
-   - Where do you see yourself in next 5 years?
+   - Where do you see yourself in the next 5 years?
    - How would you know you were successful on this job?
    - What will you do if you don’t get this position?
    - How long would you expect to work for us in case you are hired?
@@ -201,28 +201,28 @@ Further if you want to practice more, you can also follow RS Agarwal.
    - Do you have any questions for me?
    
    
-   Prepare in advance for questions like these. There are many youtube videos that guides about dealing with a particular question. Basically, we have to talk in terms of organisation profits. You have to show how you can be a asset for them. You have to say what they are expecting to listen from a candidate e.g. Consider a question "Where do you see yourself in 5 years?", Now, come on most of the people wants to switch for 30% hike within 1-2 year, But, wait, Then why are they putting efforts on your recuritment if you will leave them within 1-2 years ? Got the point ?  So, you don't have to tell them your plan instead you can reply with something like “I see myself more ambitious and dedicated fellow after 5 years .In five years, I see myself as a successful (your creative field), subject matter expert and learning new skills that will benefit the company and help me achieve my career goals. I am eager to experience new challenges and excited to invest five years time specializing in a career I find extremely interesting and motivating" ( Just an example).
+   Prepare in advance for questions like these. There are many youtube videos that guide about dealing with a particular question. Basically, we have to talk in terms of organisation profits. You have to show how you can be an asset to them. You have to say what they are expecting to listen from a candidate e.g. Consider a question "Where do you see yourself in 5 years?", Now, come on most of the people wants to switch for 30% hike within 1-2 year, But, wait, Then why are they putting efforts on your recruitment if you will leave them within 1-2 years? Got the point?  So, you don't have to tell them your plan instead you can reply with something like “I see myself more ambitious and dedicated fellow after 5 years. In five years, I see myself as a successful (your creative field), subject matter expert and learning new skills that will benefit the company and help me achieve my career goals. I am eager to experience new challenges and excited to invest five years time specializing in a career I find extremely interesting and motivating" ( Just an example).
    
-   - Also prepare for puzzles and riddles.
+   - Also, prepare for puzzles and riddles.
 
    
    # Pro-Tips
    - Study about the organisation, where you are going to have your interview, like
    
         - What they do ? 
-        - What are there different products ?
+        - What are there different products?
         - What is going to be my role, if selected?
-        - Do I have the necessary skill set for the role ? 
-        - Do I have my resume tailored for this interview ? 
+        - Do I have the necessary skill set for the role? 
+        - Do I have my resume tailored for this interview? 
         - How it is like to work there?
         - Rating and reviews on [GlassDoor](https://www.glassdoor.co.in/index.htm)
         - Read past interview experiences from [GeeksforGeeks : Interview Experiences](https://www.geeksforgeeks.org/company-interview-corner/) and [GlassDoor](https://www.glassdoor.co.in/index.htm).
         
-   - Mention only those technologies and projects that you know very well. Also, if you have basic knowledge of a particular language or techonology then you can mention the same with the level of proficiency.
-   - As, a fresher your resume should be only one page long.
+   - Mention only those technologies and projects that you know very well. Also, if you have basic knowledge of a particular language or technology then you can mention the same with the level of proficiency.
+   - As a fresher your resume should be only one page long.
    
 # Hope this helps :)
    - Follow on [Linkedin](https://www.linkedin.com/in/sakshamsachdeva/)
    - Follow on [Github](https://github.com/sakshamsachdeva)
    - Follow on [Quora](https://www.quora.com/profile/Saksham-Sachdeva-8)
-   - E-mail any query to : saksham9654@gmail.com
+   - E-mail any query to: saksham9654@gmail.com
