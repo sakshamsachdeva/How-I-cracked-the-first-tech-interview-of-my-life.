@@ -224,5 +224,5 @@ Further, if you want to practice more, you can also follow RS Agarwal.
 # Hope this helps :)
    - Follow on [Linkedin](https://www.linkedin.com/in/sakshamsachdeva/)
    - Follow on [Github](https://github.com/sakshamsachdeva)
-   - Follow on [Quora](https://www.quora.com/profile/Saksham-Sachdeva-8)
+   - Follow on [Quora](https://www.quora.com/profile/Saksham-Sachdeva-2)
    - E-mail any query to saksham9654@gmail.com
